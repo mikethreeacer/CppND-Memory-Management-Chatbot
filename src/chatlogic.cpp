@@ -32,9 +32,6 @@ ChatLogic::~ChatLogic()
     ////
 
     // delete chatbot instance
-    // This proofs to be a memory bug source, It deletes ChatBot twice
-    //delete _chatBot;
-
 
     ////
     //// EOF STUDENT CODE
